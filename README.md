@@ -13,7 +13,7 @@ And now with great pleasure and happiness, I work in the Data Engineering area a
 ### Experience
 
 #### Itaú Unibanco
-#####**Role: Jr. IT Engineering Analyst**
+##### **Role: Jr. IT Engineering Analyst**
 **Duration: 2022 - Present**
 
 - SQL
@@ -24,7 +24,7 @@ And now with great pleasure and happiness, I work in the Data Engineering area a
 - AngularJS
 
 #### Leega
-#####**Role: Jr. Data Engineer**
+##### **Role: Jr. Data Engineer**
 **Duration: 2022 - 2022**
 
 Assigned to the client Santander Bank, in the squad supporting the Retail Intelligence and Planning Team - Customer Research & Analytics (MKT Automation).
@@ -39,7 +39,7 @@ Data modeling
 Working with Google Cloud Platform tools and services (Compute Engine, GCS, BigQuery, Cloud Functions, CloudSQL, Dataproc)
 
 #### Leega
-#####**Role: Trainee Data Engineer**
+##### **Role: Trainee Data Engineer**
 **Duration: 2021 - 2022**
 
 I had the opportunity to participate in the technical training program (Leega Academy) provided by Leega, in the August 2021 training cohort. During the training journey, I took part in various specializations and courses within the company, led by heads and experts in diverse topics, such as:
