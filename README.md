@@ -13,7 +13,7 @@ I believe in the power of technology as a catalyst for positive change and conti
 ### Experience
 
 #### Itaú Unibanco
-##### **Role: Jr. IT Engineering Analyst**
+##### **Role: Data Enginner**
 **Duration: 2022 - Present**
 
 - SQL
