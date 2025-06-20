@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-## LinkedIn Overview
-
 ### Summary
 
-I'm 25 years old, I'm studying Information Systems at UNA University Center, and I'm in my 7th period. I'm a highly motivated and passionate professional about technology. 🚀 I believe that technology allows us to make great changes and improve our world. I always have the desire to stay up to date with the latest trends and practices. I'm always ready for challenges and learning opportunities. #LifeLongLearning
+I hold a degree in Information Systems from Centro Universitário UNA, and I’m 27 years old with over 4 years of experience in the data field, specializing in Data Engineering. I currently work on the digital transformation of Itaú 🧡, the largest bank in Latin America, where I apply my passion for technology to solve major challenges.
 
-I started my professional journey as a Young Apprentice in the administrative area when I was 15 years old, where I worked in the area of ​​customer service, administration and management, where I was able to acquire rich experiences, a lot of learning, and great personal and professional development.
+My professional journey began early, at the age of 15, as a Young Apprentice in the administrative area. During this time, I performed tasks related to customer service, management, and administrative operations. This early experience provided me with valuable learnings and contributed significantly to my personal and professional development until I transitioned into the data field.
 
-And now with great pleasure and happiness, I work in the Data Engineering area at Itaú Bank. 🧡
+I am currently pursuing a postgraduate degree in Machine Learning Engineering at FIAP 🚀, which complements my role in Data Engineering and strengthens my focus on scalable solutions within the Data Platform Engineering context.
+
+I believe in the power of technology as a catalyst for positive change and continuously seek to stay updated with the latest trends and best practices in the industry. Lifelong learning is a priority for me, and I’m always ready for new challenges and growth opportunities.
 
 ### Experience
 
